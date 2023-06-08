@@ -3,7 +3,7 @@
 
 A simple web application that generates random quotes.
 
-**This README was created for the YouTube tutorial on my channel. Watch the tutorial [here](link-to-your-youtube-video).**
+**This README was created for the YouTube tutorial on my channel. Watch the tutorial [here](https://www.youtube.com/watch?v=0pNm4_T-TUQ).**
 
 ## Table of Contents
 
